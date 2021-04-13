@@ -1,2 +1,3 @@
-JS chart plugin
-Preview available on alexerisov.github.io/js-charts
+# JS chart plugin
+
+Preview available [here](https://alexerisov.github.io/js-charts)
