@@ -13,4 +13,4 @@ module.exports=[{columns:[["x",15424128e5,15424992e5,15425856e5,1542672e6,154275
 },{}],"QdeU":[function(require,module,exports) {
 "use strict";var e=require("./chart"),t=r(require("./data.json"));function r(e){return e&&e.__esModule?e:{default:e}}require("./../css/styles.scss");var s=(0,e.chart)(document.getElementById("chart"),t.default[1]);s.init();
 },{"./chart":"TEwb","./data.json":"JAaF","./../css/styles.scss":"A9wb"}]},{},["QdeU"], null)
-//# sourceMappingURL=/app.23749c9e.js.map
+//# sourceMappingURL=app.23749c9e.js.map
